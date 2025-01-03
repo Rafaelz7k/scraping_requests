@@ -1,1 +1,0 @@
-Scraping utilizado para extrair preço de produtos de sites utilizando o metódo requests, de forma rápida e simples.

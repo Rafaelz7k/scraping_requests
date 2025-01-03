@@ -1,0 +1,4 @@
+11:49:10 main.py INFO: [START]
+11:49:18 base.py INFO: 12 produtos encontrados para o site site
+11:49:18 main.py INFO: 12 produtos salvos no arquivo data/20250103114918.csv
+11:49:18 main.py INFO: [END]
